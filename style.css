@@ -1,0 +1,54 @@
+header{
+    background-color: rgb(255, 153, 231), 250;
+    color: rgb(56, 3, 45);
+    text-align: center;
+}
+
+
+body{
+    text-align: center;
+    background-color: rgb(253, 228, 253);
+}
+
+
+    .btn{
+        align-items: initial;
+        display: inline-block;text-align: start;
+        padding: 0.5em 1.5em;
+        text-align: center;
+        text-decoration: none;
+        box-shadow: -5px 6px rgb(221, 81, 191);
+        border: 3px solid rgb(221, 81, 191);
+        color: rgb(221, 81, 191);
+        font-weight: 400;
+        font-size: 1em;
+        transition: all ease-in 0.2s;
+        border-radius: 50px;
+    }
+    .btn:hover,
+    .btn:focus{
+        background: rgb(221, 81, 191);
+        color: #FFF;
+        border-color: rgb(221, 81, 191);
+        box-shadow: none;
+    }
+    
+    footer {
+        
+        padding: 3px;
+        background-color: rgb(233, 122, 215);
+        color: white;
+      }
+
+      .fixarRodape {
+        bottom: 0;
+        position: fixed;
+        width: 90%;
+    
+    }
+
+
+
+
+    
+    
